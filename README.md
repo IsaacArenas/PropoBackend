@@ -1,2 +1,2 @@
 # PropoBackend
-Property Manager Project
+Properties Manager Project
